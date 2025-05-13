@@ -76,4 +76,4 @@ If you use this code, please cite our paper:
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via GitHub Issues or [ik.mukilan2@gmail.com].
+For questions or collaborations, feel free to reach out via GitHub Issues or [mukilan.ik2@gmail.com].
